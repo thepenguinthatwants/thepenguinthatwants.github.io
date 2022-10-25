@@ -31,6 +31,7 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           # external_repository: thepenguinthatwants/thepenguinthatwants.github.io/
           publish_dir: ./public
+          publish_branch: main
           #   keep_files: true
           # user_name: <username>
           # user_email: <username@email.com>
