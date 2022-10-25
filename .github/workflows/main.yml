@@ -34,5 +34,5 @@ jobs:
           #   keep_files: true
           # user_name: <username>
           # user_email: <username@email.com>
-          publish_branch: master
+          # publish_branch: master
         #   cname: example.com
